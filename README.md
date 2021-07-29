@@ -1,3 +1,10 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=1000&lines=3D+DESIGN+%2F%2F+ILLUSTRATION;TYPOGRAPHY+%2F%2F+ANIMATION;VIDEO+EDTING+%2F%2F+PHOTOGRAPHY)](https://git.io/typing-svg)
+
+
+
+
+
+
 - 👋 Hi, I’m @cybertv77
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning HTML/CSS/PHP
