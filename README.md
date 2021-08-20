@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=SMALL+APP+DEVELOPER;SMALL+PYTHON+DEVELOPER)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&width=1000&lines=SMALL+APP+DEVELOPER;SMALL+PYTHON+DEVELOPER)](https://git.io/typing-svg)
 
 
 - 👋 Hi, I’m @cybertv77
