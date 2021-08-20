@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=1000&lines=SMALL+PYTHON+&+WEB+DEVELOPER)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=SMALL+APP+DEVELOPER;SMALL+PYTHON+DEVELOPER)](https://git.io/typing-svg)
 
 
 
