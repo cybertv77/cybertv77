@@ -3,6 +3,6 @@
 
 - 👋 Hi, I’m @cybertv77
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning HTML/CSS/PHP
+- 🌱 I’m currently learning HTML/CSS/PYTHON(improving)
 - 💞️ I’m looking to collaborate on a project AI FACE SCAN
 - 📫 How to reach me : Discord - https://discord.com/invite/amhqWUAa4G
